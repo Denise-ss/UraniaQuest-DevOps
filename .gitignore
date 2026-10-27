@@ -1,0 +1,17 @@
+
+# Arquivos temporarios do .NET - ignorar binarios e arquivos de build
+bin/
+obj/
+.vs/
+
+# Configuracoes locais do editor - ignorar arquivos de configuracao do Visual Studio Code
+.vscode/
+
+# Dados gerados pela aplicacao - ignorar arquivos de configuracao e dados gerados pela aplicacao
+solucoes.json
+
+# Arquivos locais e temporarios - ignorar arquivos de configuracao do Visual Studio, arquivos de log e arquivos de ambiente
+*.user
+*.log
+.env
+.env.*
