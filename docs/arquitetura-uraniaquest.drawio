@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" agent="UraniaQuest FIAP Sprint1">
+  <diagram id="uq-sprint1-simplificada" name="Arquitetura simplificada">
+    <mxGraphModel dx="2645" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1440" pageHeight="815" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q11" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=none;strokeWidth=0;opacity=100;" value="" vertex="1">
+          <mxGeometry height="815" width="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="q12" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#147FCB;strokeColor=none;strokeWidth=0;opacity=100;" value="" vertex="1">
+          <mxGeometry height="73" width="8" x="60" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="q13" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=34;fontColor=#15283E;fontStyle=1;spacing=0;" value="URANIAQUEST  |  DEVOPS &amp; CLOUD COMPUTING" vertex="1">
+          <mxGeometry height="52" width="1030" x="90" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="q14" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=18;fontColor=#526A84;fontStyle=0;spacing=0;" value="Arquitetura simplificada da aplicação Console C# / .NET 8" vertex="1">
+          <mxGeometry height="32" width="1095" x="92" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="q15" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#DCECFB;strokeColor=none;strokeWidth=0;opacity=100;" value="" vertex="1">
+          <mxGeometry height="37" width="205" x="1160" y="53" as="geometry" />
+        </mxCell>
+        <mxCell id="q16" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=14;fontColor=light-dark(#1175C1, #f7f7f7);fontStyle=1;spacing=0;" value="ARQUITETURA PLANEJADA" vertex="1">
+          <mxGeometry height="30" width="180" x="1174" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="q17" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A7C6E2;strokeWidth=2;opacity=100;" value="" vertex="1">
+          <mxGeometry height="285" width="290" x="55" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="q19" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=22;fontColor=#15283E;fontStyle=1;spacing=0;" value="USUÁRIO / TERMINAL" vertex="1">
+          <mxGeometry height="35" width="240" x="86" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="q20" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=17;fontColor=#526A84;fontStyle=0;spacing=0;" value="Acesso remoto à VM" vertex="1">
+          <mxGeometry height="27" width="200" x="100" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="q21" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=17;fontColor=#526A84;fontStyle=0;spacing=0;" value="por SSH (porta 22)" vertex="1">
+          <mxGeometry height="26" width="200" x="100" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="q22" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E5F4F3;strokeColor=none;strokeWidth=0;opacity=100;" value="" vertex="1">
+          <mxGeometry height="28" width="195" x="103" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="q23" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=14;fontColor=#067C79;fontStyle=1;spacing=0;" value="Interface de terminal" vertex="1">
+          <mxGeometry height="23" width="185" x="107" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="q24" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E8F3FF;strokeColor=#1682C8;strokeWidth=3;opacity=100;" value="" vertex="1">
+          <mxGeometry height="540" width="940" x="430" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="q26" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=27;fontColor=#1175C1;fontStyle=1;spacing=0;" value="MICROSOFT AZURE" vertex="1">
+          <mxGeometry height="38" width="570" x="540" y="196" as="geometry" />
+        </mxCell>
+        <mxCell id="q27" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=15;fontColor=#526A84;fontStyle=0;spacing=0;" value="Serviço de computação em nuvem" vertex="1">
+          <mxGeometry height="22" width="700" x="542" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="q28" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#619CCC;strokeWidth=2.5;opacity=100;" value="" vertex="1">
+          <mxGeometry height="395" width="865" x="468" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="q30" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=23;fontColor=#15283E;fontStyle=1;spacing=0;" value="MÁQUINA VIRTUAL LINUX" vertex="1">
+          <mxGeometry height="32" width="530" x="574" y="294" as="geometry" />
+        </mxCell>
+        <mxCell id="q31" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=15;fontColor=#526A84;fontStyle=0;spacing=0;" value="Azure Virtual Machines  •  ambiente de execução" vertex="1">
+          <mxGeometry height="24" width="630" x="576" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="q32" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#DDF3E9;strokeColor=none;strokeWidth=0;opacity=100;" value="" vertex="1">
+          <mxGeometry height="30" width="195" x="1095" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="q33" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=14;fontColor=#087C62;fontStyle=1;spacing=0;" value="SSH · PORTA 22" vertex="1">
+          <mxGeometry height="26" width="170" x="1107" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="q34" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF8FE;strokeColor=#2796D2;strokeWidth=2.3;opacity=100;" value="" vertex="1">
+          <mxGeometry height="261" width="805" x="500" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="q36" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=25;fontColor=#15283E;fontStyle=1;spacing=0;" value="DOCKER" vertex="1">
+          <mxGeometry height="37" width="500" x="620" y="393" as="geometry" />
+        </mxCell>
+        <mxCell id="q37" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=15;fontColor=#526A84;fontStyle=0;spacing=0;" value="Container: uraniaquest-solucoes  •  imagem .NET 8" vertex="1">
+          <mxGeometry height="22" width="635" x="620" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="q38" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EFEAFF;strokeColor=#A38BD8;strokeWidth=2;opacity=100;" value="" vertex="1">
+          <mxGeometry height="132" width="465" x="525" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="q40" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=23;fontColor=#15283E;fontStyle=1;spacing=0;" value="UraniaQuest.Solucoes" vertex="1">
+          <mxGeometry height="34" width="338" x="639" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="q41" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=15;fontColor=#526A84;fontStyle=0;spacing=0;" value="Aplicação Console C# / .NET 8" vertex="1">
+          <mxGeometry height="26" width="333" x="639" y="524" as="geometry" />
+        </mxCell>
+        <mxCell id="q42" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=15;fontColor=#573BA6;fontStyle=1;spacing=0;" value="Cadastrar  •  Listar  •  Buscar" vertex="1">
+          <mxGeometry height="22" width="326" x="639" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="q43" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E6F9F7;strokeColor=#55B3B3;strokeWidth=2;opacity=100;" value="" vertex="1">
+          <mxGeometry height="118" width="240" x="1045" y="487" as="geometry" />
+        </mxCell>
+        <mxCell id="q45" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=18;fontColor=#15283E;fontStyle=1;spacing=0;" value="solucoes.json" vertex="1">
+          <mxGeometry height="31" width="145" x="1136" y="508" as="geometry" />
+        </mxCell>
+        <mxCell id="q46" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=13;fontColor=#526A84;fontStyle=0;spacing=0;" value="Arquivo JSON" vertex="1">
+          <mxGeometry height="18" width="135" x="1139" y="544" as="geometry" />
+        </mxCell>
+        <mxCell id="q47" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=13;fontColor=#526A84;fontStyle=0;spacing=0;" value="no container" vertex="1">
+          <mxGeometry height="18" width="135" x="1139" y="568" as="geometry" />
+        </mxCell>
+        <mxCell id="q48" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#1779AC;strokeWidth=3.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="386" as="sourcePoint" />
+            <mxPoint x="468" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q49" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#DDF3E9;strokeColor=none;strokeWidth=0;opacity=100;" value="" vertex="1">
+          <mxGeometry height="29" width="95" x="359" y="339" as="geometry" />
+        </mxCell>
+        <mxCell id="q50" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=14;fontColor=#087E68;fontStyle=1;spacing=0;" value="SSH / 22" vertex="1">
+          <mxGeometry height="24" width="87" x="362" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="q51" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#058F86;strokeWidth=3.2;endArrow=block;endFill=1;startArrow=block;startFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="993" y="544" as="sourcePoint" />
+            <mxPoint x="1042" y="544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q52" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E6F9F7;strokeColor=none;strokeWidth=0;opacity=100;" value="" vertex="1">
+          <mxGeometry height="23" width="84" x="982" y="509" as="geometry" />
+        </mxCell>
+        <mxCell id="q53" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=11;fontColor=#06766E;fontStyle=1;spacing=0;" value="LÊ / GRAVA" vertex="1">
+          <mxGeometry height="20" width="76" x="986" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="q54" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E7EFF8;strokeColor=#C6D8EB;strokeWidth=1;opacity=100;" value="" vertex="1">
+          <mxGeometry height="48" width="1305" x="60" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="q55" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=17;fontColor=#15283E;fontStyle=1;spacing=0;" value="Fluxo: usuário → SSH → VM Linux no Azure → Docker → aplicação .NET 8 ↔ JSON" vertex="1">
+          <mxGeometry height="21" width="1254" x="86" y="747" as="geometry" />
+        </mxCell>
+        <mxCell id="q56" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=fill;fontFamily=Arial;fontSize=12;fontColor=#526A84;fontStyle=0;spacing=0;" value="Sem API HTTP e sem banco de dados externo; JSON local ao container. Arquitetura planejada, pendente de validação no Azure." vertex="1">
+          <mxGeometry height="16" width="1260" x="86" y="768" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JzzAT6zip25U7YbHs2-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Usuário" vertex="1">
+          <mxGeometry height="73" width="45.5" x="175.5" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JzzAT6zip25U7YbHs2-4" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#115193;gradientColor=none;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="84" width="73.5" x="541" y="492" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JzzAT6zip25U7YbHs2-5" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.json_script;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="78" width="57" x="1062" y="506" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JzzAT6zip25U7YbHs2-6" parent="1" style="image;sketch=0;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/mscae/Docker.svg;points=[[0.522,0,0],[0.496,1,0],[0.01,0.89,0],[0.99,0.803,0],[0.985,0.244,0],[0.912,0.997,0],[0.038,0.972,0],[0.295,0.107,0]];labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="68.88" width="84" x="525" y="393" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JzzAT6zip25U7YbHs2-10" parent="1" style="image;sketch=0;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;points=[[0.497,0,0],[0.51,1,0],[0,0.402,0],[1,0.404,0],[0.982,0.017,0],[0.84,1,0],[0.18,1,0],[0.018,0.014,0]];labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="67.62" width="73.5" x="490.63" y="292.38" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JzzAT6zip25U7YbHs2-11" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/azure/1/Azure.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="52" width="68.25" x="465" y="195" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,18 @@
+
+# Ignorar arquivos compilados do .NET
+**/bin
+**/obj
+
+# Ignorar configuracoes locais
+.git
+.vs
+.vscode
+
+# Ignorar arquivos de dados e temporarios
+**/solucoes.json
+*.log
+.env
+.env.*
+
+# Documentacao nao necessaria dentro da imagem
+docs
